@@ -15,7 +15,7 @@ background-position:center;
 .box {
 background-image:url(../1.jpg);
 padding:.5rem 10rem;
-margin:.5rem;
+margin:.5rem 1.8rem;
 /*background-repeat: no-repeat;*/
 background-size:cover;
 background-position:center;
